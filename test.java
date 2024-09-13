@@ -6,6 +6,6 @@ public class MyFirstJavaProgram {
   
   public static void main(String []args) {
     System.out.println("Hello World"); // prints Hello World
-    public String secret = "wss2389eryuifrh3w2rfyew8y023yeruwi=";
+    public String secret = "Ajdbm3iqIqOAd2Ot3B6nXjSaSvifkNkC33iPJI26X4J4+4ADbxVqQNwNr9c8X3qFNg==";
   }
 }
