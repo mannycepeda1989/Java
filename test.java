@@ -6,6 +6,6 @@ public class MyFirstJavaProgram {
   
   public static void main(String []args) {
     System.out.println("Hello World"); // prints Hello World
-    public String secret = "wss2389eryuifrh3w2rfyew8y023yeruwi=";
+    aws-crypto-public-key = "Atg3rp8EA4Qa6pfi971IS5974zN2yYXNoJkpDqOsGHbEZT4j0NN2QdE+fm1UcMVu8g==";
   }
 }
